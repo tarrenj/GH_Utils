@@ -1,0 +1,7 @@
+# Comments are (manually) handled in this file
+# This is not true for other .txt files in this repo!
+
+repo1
+repo2
+#repo3  # This one is commented out, so it's skipped!
+repo4
